@@ -1,9 +1,9 @@
-#Main
+# Main
 
 目录：
 
-- Me 
+- Me:
 关于我自己
 
-- Dreams
+- Dreams:
 我的梦以及胡思乱想
